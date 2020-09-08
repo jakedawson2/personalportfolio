@@ -4,37 +4,27 @@
     "occupation":"Web Developer IT enthuiast",
     "description":"I am just learning at the moment. I am very passionate about technology and I am learning react at the moment",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I started as a wordpress developer to earn some money to support me and my family as I learn Javascript and frameworks like React. I am trying to get React Dev under my belt and I learn best by doing. That is why I am brushing up on my skills",
+    "contactmessage":"If anyone would like help on a project let me know.",
+    "email": "jake@upbound.com.au",
+    "phone": "+61432 651 258",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"216 victoria street",
+      "city":"Taree",
+      "state":"NSW",
+      "zip": "2430"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://www.upbound.com.au",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/upbound",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jake-dawson-05b525a2/",
         "className":"fa fa-linkedin"
       },
       {
@@ -44,7 +34,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/jake.dawson2",
         "className":"fa fa-github"
       },
       {
@@ -55,27 +45,21 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am still in the learning phase of my developer carrer but I was born to be a developer.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Self Taught Developer",
+        "degree":"None",
+        "graduated":"Ongoing",
+        "description":"It has taken alot of dedication and drive. But I have taught myself some skills that will be valuable"
       },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Telstra Store",
+        "title":"Area Manager ",
+        "years":"March 2007- 2019",
+        "description":"In this role I had to be versatile and learnt alot of skills. I learnt alot about people with alot of hiring and firing and people management involved over the years"
       },
       {
         "company":"Super Cool Studio",
@@ -87,11 +71,11 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"50%"
       },
       {
         "name":"Illustrator",
-        "level":"55%"
+        "level":"65%"
       },
       {
         "name":"ReactJs",
@@ -106,12 +90,16 @@
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"MongoDB",
+        "level":"20%"
       },
       {
-        "name":"MongoDB",
+        "name":"SharePoint",
         "level":"80%"
+      },
+      {
+        "name":"WordPress",
+        "level":"85%"
       }
     ]
   },
